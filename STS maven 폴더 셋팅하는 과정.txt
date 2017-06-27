@@ -1,0 +1,1 @@
+STS windows properties => maven => user settings
